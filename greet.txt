@@ -1,1 +1,1 @@
-Another update fron main branch
+Hello from both branches
